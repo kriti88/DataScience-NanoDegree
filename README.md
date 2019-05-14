@@ -38,7 +38,7 @@ BlackFridaySale.ipynb - There is one ipynb notebook which contains code related 
 BlackFriday.csv - This file contains 5,37,577 observations about the black Friday in a retail store, it contains different kinds of variables either numerical or categorical & missing values.
 
 # Results
-The blog post related to above analysis is available here.
+The blog post related to above analysis is available at (https://medium.com/@kriti_agrawal02/black-friday-data-exploration-sale-purchase-benefits-d09298cd1cec)
 
 # Licensing, Authors, Acknowledgements
-Must give credit to Analytics Vidhya & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Analytics Vidhya & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link. Otherwise, feel free to use the code here as you would like!
